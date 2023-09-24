@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lovelace98
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @Lovelace aka The Python Jedi
+- 👀 I’m interested in Data science and Machine Learning
+- 🌱 I’m currently taking my python skills to the moon
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me... lovelacegmf@gmail.com
 
